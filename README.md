@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Binod Dey</h1>
 
-<h3 align="center">🎓 BTech CSE '28 · 🚀 Founder @ Note Nexus (1.7k+ users) · ✍️ Author · 🧠 AI x EdTech</h3>
+<h3 align="center">🎓 BTech CSE '28 · 🚀 Founder @ Note Nexus (2.2k+ users) · ✍️ Author · 🧠 AI x EdTech</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thebinoddey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
