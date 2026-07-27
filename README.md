@@ -1,68 +1,15 @@
-<h1 align="center">👋 Hi, I'm Binod Dey</h1>
-
-<h3 align="center">🎓 BTech CSE '28 · 🚀 Founder @ Note Nexus (2.2k+ users) · ✍️ Author · 🧠 AI x EdTech</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/thebinoddey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://binoddey.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://notenexus.in"><img src="https://img.shields.io/badge/Note%20Nexus-FF6B35?style=for-the-badge&logo=notion&logoColor=white"></a>
-</p>
-
----
-
-### 🚀 About Me
-
-I'm a 3rd-year BTech CSE student at JECRC University, building **Note Nexus** — a resource hub with notes, doubt support, and learning pathways for BTech students. I started it because I watched brilliant engineering students struggle to turn complex subjects into study-ready material.
-
-- 📖 Published my first book at 15 on English grammar — an Amazon bestseller used by 5K+ learners across 12 countries
-- 🏗️ Now building Note Nexus solo — product, growth, and ops — while finishing my degree
-- 🔍 Deep interest in Software Engineering, AI/NLP, and System Design
-- ⚙️ Believer in learning by building, breaking, and improving
-- 🚢 Ship fast, iterate with real users, measure everything
+# 💫 About Me:
+I'm a 3rd-year BTech CSE student at JECRC University, building Note Nexus — a resource hub with notes, doubt support, and learning pathways for BTech students. I started it because I watched brilliant engineering students struggle to turn complex subjects into study-ready material.<br><br>📖 Published my first book at 15 on English grammar — an Amazon bestseller used by 5K+ learners across 12 countries<br>🏗️ Now building Note Nexus solo — product, growth, and ops — while finishing my degree<br>🔍 Deep interest in Software Engineering, AI/NLP, and System Design<br>⚙️ Believer in learning by building, breaking, and improving<br>🚢 Ship fast, iterate with real users, measure everything
 
 
-### 🧠 Tech Stack
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thebinoddey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thebinoddey) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thebinoddey) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thebinoddey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mail.binoddey@gmail.com) 
 
-**Languages:** ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=thebinoddey&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=thebinoddey&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=thebinoddey&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-**Web Development:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Core CS Fundamentals:** Data Structures & Algorithms, OOP, Operating Systems, Computer Networks
-
-**Tools & Platforms:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-**AI/ML:** Natural Language Processing (NLP), Prompt Design (Vertex AI), Machine Learning fundamentals
-
-### 📜 Certifications
-
-- Google Cloud Computing Foundations Certificate
-- What Is Generative AI?
-- Prompt Design in Vertex AI
-- Machine Learning & AI
-- Financial Institutions and Markets
-- Introduction to Machine Learning
-
-### 📌 Featured Work
-
-- 🚀 **[Note Nexus](https://notenexus.in)** — EdTech resource platform, from concept to execution
-- 📊 **DSA Practice Repository** — structured problem-solving & algorithms
-- 🌐 **Web Development Projects** — clean UI, functional logic, scalable code
-- 📖 **[Spoken English Mastery]([https://www.notionpress.com](https://www.amazon.in/Spoken-English-Mastery-Binod-Dey/dp/B09N1FB9XW/ref=tmm_pap_swatch_0))** — Amazon category best-selling grammar book - 2022
-
-### 🤝 What I'm Looking For
-
-- Product mentors who've scaled learning platforms
-- User research feedback (running campus interviews every week)
-- Founder friends solving related problems in EdTech
-
-If you're building in education, advising founders, or curious how AI can improve student learning — let's talk. Real conversations over generic networking.
-
-### 📫 Connect With Me
-
-- 💼 LinkedIn: [thebinoddey](https://www.linkedin.com/in/thebinoddey)
-- 🌐 Portfolio: [binoddey.netlify.app](https://binoddey.netlify.app)
-- 📧 Email: mail.binoddey@gmail.com
-
----
-
-<p align="center"><i>⭐ Always learning. Always building. Always improving.</i></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
